@@ -1,5 +1,5 @@
 ## Hi there 👋
-seulgae.github.io
+<a href='seulgae.github.io'>Link</a>
 
 <!--
 **seulgae/seulgae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
