@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Hello,%20World!&fontSize=70&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4facfe,00f2fe&height=250&section=header&text=Hello,%20World!&fontSize=70&fontColor=ffffff&fontAlignY=35)
 
 <div align="center">
 
@@ -19,10 +19,6 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=본인의_깃허브_아이디&show_icons=true&bg_color=e0f7fa&title_color=006064&text_color=006064&icon_color=00bcd4&hide_border=true" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의_깃허브_아이디&layout=compact&bg_color=e0f7fa&title_color=006064&text_color=006064&hide_border=true&langs_count=6" height="150" alt="languages" />
-
 <br><br>
 
 <a href="mailto:r1605866@gmail.com">
