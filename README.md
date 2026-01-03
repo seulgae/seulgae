@@ -1,7 +1,3 @@
-![header]([https://capsule-render.vercel.app/api?type=venom](https://capsule-render.vercel.app/api?type=venom&height=120&fontSize=40&fontAlign=left&textAlignVertical=top
-))
-
-
 <div align="center">
 
 <h3> 시스템의 잠재 리스크를 제거하고, 기술로 운영 효율을 극대화하는 백엔드 개발자 길태형입니다. </h3>
