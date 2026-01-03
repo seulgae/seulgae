@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2980B9,6DD5FA,ffffff&height=250&section=header&text=Hello,%20World!&fontSize=70&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C6FF,0072FF&height=250&section=header&text=Hello,%20World!&fontSize=70&fontColor=ffffff&fontAlignY=35&re=1)
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Boot-3C8CBD?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-3074C0?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -25,9 +25,9 @@
   <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://doltae.tistory.com/">
-  <img src="https://img.shields.io/badge/Blog-3693F3?style=flat-square&logo=tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2980B9,6DD5FA,ffffff&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C6FF,0072FF&height=100&section=footer&re=1)
