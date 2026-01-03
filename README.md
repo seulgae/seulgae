@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom)Seulgae GitHub
+![header]([https://capsule-render.vercel.app/api?type=venom](https://capsule-render.vercel.app/api?type=venom&height=120&fontSize=40&fontAlign=left&textAlignVertical=top
+))
+
 
 <div align="center">
 
