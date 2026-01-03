@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<h3> 🌊 끊임없이 흐르는 물처럼 성장하는 개발자, [이름]입니다. </h3>
+<h3> 시스템의 잠재 리스크를 제거하고, 기술로 운영 효율을 극대화하는 백엔드 개발자 길태형입니다. </h3>
 <p>
-  사용자에게 쾌적한 경험을, 동료에게는 신뢰할 수 있는 코드를 제공합니다.<br>
-  Spring Boot와 클라우드 아키텍처에 관심이 많습니다.
+  단순한 유지보수를 넘어 시스템을 더 빠르고 견고하게 진화시키는 성장형 운영을 지향합니다.</br>
+  인프라 최적화부터 애플리케이션 고도화까지, 폭넓은 경험을 바탕으로 귀사의 서비스에 확실한 기술적 가치를 더하겠습니다.
 </p>
 
 <br>
@@ -25,10 +25,10 @@
 
 <br><br>
 
-<a href="mailto:본인의이메일@gmail.com">
+<a href="mailto:r1605866@gmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
 </a>
-<a href="https://velog.io/@본인의벨로그아이디">
+<a href="https://doltae.tistory.com/">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
