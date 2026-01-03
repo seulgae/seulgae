@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C6FF,0072FF&height=250&section=header&text=Hello,%20World!&fontSize=70&fontColor=ffffff&fontAlignY=35&re=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2&height=250&section=header&text=Hello,%20World!&fontSize=70&fontColor=ffffff)
 
 <div align="center">
 
@@ -30,4 +30,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C6FF,0072FF&height=100&section=footer&re=1)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=87CEEB,00BFFF&height=100&section=footer)
