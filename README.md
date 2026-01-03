@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 <div align="center">
 
 <h3> 시스템의 잠재 리스크를 제거하고, 기술로 운영 효율을 극대화하는 백엔드 개발자 길태형입니다. </h3>
@@ -29,5 +27,3 @@
 </a>
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=87CEEB,00BFFF&height=100&section=footer)
