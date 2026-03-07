@@ -79,12 +79,4 @@
 
 <br/>
 
----
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=seulgae&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seulgae&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages"/>
-
-</div>
